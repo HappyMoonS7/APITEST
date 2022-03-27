@@ -1,0 +1,1 @@
+i for i in curr.execute(sql_cmd,(ID
